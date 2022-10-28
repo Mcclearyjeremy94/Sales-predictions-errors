@@ -17,18 +17,17 @@ I have used linear regression and a decison tree model, then used the R^2 and RM
 
 ## Results
 Based on doing both, R^2 and RMSE methods, on both the linear regression and decision tree models. I came to a conclusion that the linear regression, RMSE, model and method had the best possible output for this dataset.
-### Here are examples of how to embed images from your sub-folder
 
+#### Supermarket size compared to Sales
+https://colab.research.google.com/drive/1X4yA9boc_51sORA7UabEJxt111QsaBve#scrollTo=Xa5fN4eYn_zA&line=1&uniqifier=1
 
-#### Visual 1 Title
-![sample image](project1_sample_image.png)
+> This shows here which size of supermarket has the highest outlet sales, compared to others.
 
-> Sentence about visualization.
+####Item fat content compared to sales
 
-#### Visual 2 Title
+https://colab.research.google.com/drive/1X4yA9boc_51sORA7UabEJxt111QsaBve#scrollTo=drLABZyvtNBR&line=1&uniqifier=1
+>This shows here which fat content has the higher sales in the different supermarkets
 
-## Model
+#I would use the linear regression model here with this data set, the error is higher on the decision tree model therefore in my opinion the linear regression model will be best for future data.
 
-Describe your final model
-
-Report the most important metrics
+#The RMSE in the linear regression model is the most important metric in my personal opinion. Since it is converting the error to the same unit and is also the smallest margin of error as well.
